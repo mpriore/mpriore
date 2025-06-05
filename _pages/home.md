@@ -5,7 +5,7 @@ permalink: /
 hidden: true
 header:
   #image: /assets/images/header.jpeg
-title: "  "
+title: "Maggie Priore"
 tagline: "  "   
 author_profile: true
 classes: wide
